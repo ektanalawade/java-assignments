@@ -1,0 +1,14 @@
+target/
+*.class
+*.jar
+*.war
+*.ear
+.idea/
+*.iml
+.nb-gradle/
+nbproject/private/
+.classpath
+.project
+.settings/
+.DS_Store
+*.log
